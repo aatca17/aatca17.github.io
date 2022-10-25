@@ -1,0 +1,67 @@
+body {
+    background: #B59BC9;
+    color: rgb(255, 255, 255);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    letter-spacing: 2px;
+    }
+    img {
+    border-radius: 50%;
+    }
+    .profile-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    height: auto;
+    max-width: 100px;
+    }
+    .profile-name {
+    text-align: center;
+    padding: 30px;
+    }
+    .rrss{
+        margin-top: 15px;
+        text-align: center;
+    padding: 10px;
+    }
+    .podcast1{
+    margin-top: 20px;
+    text-align: center;
+    padding: 15px;
+    }
+    .podcast2{
+    margin-top: 20px;
+    text-align: center;
+    padding: 15px;
+    }
+    .links {
+    background: rgb(255, 255, 255);
+    color: #c5c5c5;
+    text-align: center;
+    margin-top: 10px;
+    padding: 20px;
+    border: 1px solid white;
+    border-width: 2px;
+    width: 290px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 40px;
+    }
+    a {
+    text-decoration: none;
+    color: white;
+    transition: color 1s; 
+    }
+    .bottom-text {
+    text-align: center;
+    margin-top: 60px;
+    margin-block-end: 60PX;
+    font-size: 20px;
+    font-family: 'Monument Extended', sans-serif;
+    }
+    a:hover {
+    color: rgb(0, 0, 0);
+    background: #ffffff;
+    }                                                         
